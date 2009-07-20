@@ -1,0 +1,12 @@
+body {
+	background: white;
+}
+form#add {
+	display:none;
+}
+#items span.destroy {
+	display:none;
+}
+#menu{
+	display:none;
+}

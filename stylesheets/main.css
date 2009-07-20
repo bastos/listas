@@ -1,0 +1,27 @@
+body {
+     font-family: 'Helvetica', 'Arial', sans-serif;
+     font-size: 100%;
+     margin: 0px auto 0px auto;
+     width: 450px;
+}
+#items ul li {
+	font-size: 20px;
+}
+#items span.destroy {
+	cursor:pointer;
+	color: red;
+}
+
+#items span.check {
+	cursor:pointer;
+}
+
+#items .done {
+	color:blue;
+}
+#list {
+	display:none;
+}
+#footer {
+	margin: 30px 0 0 0;
+}
